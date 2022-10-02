@@ -8,6 +8,7 @@
 ## 📦 My other learning projects are
 - [TODO](https://github.com/alicangunduz/Learning-JS-TODO)
 - [Booking](https://github.com/alicangunduz/Learning-JS-Booking)
+- [Calculator](https://github.com/alicangunduz/Learning-JS-Calculator)
   
 ## 🛰️ Feedback
 
