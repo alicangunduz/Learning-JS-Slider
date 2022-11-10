@@ -9,6 +9,7 @@
 - [TODO](https://github.com/alicangunduz/Learning-JS-TODO)
 - [Booking](https://github.com/alicangunduz/Learning-JS-Booking)
 - [Calculator](https://github.com/alicangunduz/Learning-JS-Calculator)
+- [Hangman](https://github.com/alicangunduz/Learning-JS-Hangman)
   
 ## 🛰️ Feedback
 
